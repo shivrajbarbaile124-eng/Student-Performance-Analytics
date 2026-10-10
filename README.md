@@ -31,11 +31,26 @@ The Student Performance Analytics System is a Python-based project that analyzes
 
 ## How to Run
 1. Install Python.
-2. Install the required libraries:
-   pip install numpy pandas
-3. Open the project folder in VS Code.
-4. Run:
+2. Open the project folder in VS Code.
+3. Install the required libraries:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the Python analysis program:
+
+   ```bash
    python main.py
+   ```
+
+5. Launch the interactive Streamlit dashboard:
+
+   ```bash
+   python -m streamlit run app.py
+   ```
+
+6. Open the local URL shown in the terminal, usually `http://localhost:8501`.
 
 ## Dataset
 The project uses 20 fictional sample student records for educational purposes.
