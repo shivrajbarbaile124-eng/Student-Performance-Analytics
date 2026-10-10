@@ -26,11 +26,12 @@ The Student Performance Analytics System is a Python-based project that analyzes
 - GitHub
 
 ## Project Files
-- main.py: Main Python program.
-- students.csv: Sample student dataset.
-- student_results.csv: Generated analysis results.
-- README.md: Project documentation.
-
+- `main.py`: Main Python program for student performance analysis.
+- `app.py`: Interactive Streamlit dashboard with search, filters, charts, CSV upload, and report download.
+- `students.csv`: Fictional sample student dataset.
+- `student_results.csv`: Generated student analysis results.
+- `requirements.txt`: Required Python libraries.
+- `README.md`: Project documentation.
 ## How to Run
 1. Install Python.
 2. Open the project folder in VS Code.
