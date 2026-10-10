@@ -17,8 +17,11 @@ The Student Performance Analytics System is a Python-based project that analyzes
 - Python
 - NumPy
 - Pandas
+- Streamlit
+- Matplotlib
 - CSV dataset
 - Visual Studio Code
+- GitHub
 
 ## Project Files
 - main.py: Main Python program.
