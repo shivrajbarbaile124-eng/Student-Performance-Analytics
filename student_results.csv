@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Statistics,Mathematics,AI,Data_Analysis,Attendance,Total,Average,Grade,Result
+101,Shivraj Patil,AI&DS,88,76,82,91,85,92,422,84.4,A,Pass
+102,Komal Sharma,AI&DS,92,89,94,95,90,96,460,92.0,A+,Pass
+103,Rohan Deshmukh,AI&DS,65,70,68,72,66,84,341,68.2,C,Pass
+104,Priya Jadhav,AI&DS,78,82,75,80,84,90,399,79.8,B,Pass
+105,Om Kulkarni,AI&DS,45,52,48,55,50,76,250,50.0,D,Pass
+106,Sneha Pawar,AI&DS,85,88,80,87,90,95,430,86.0,A,Pass
+107,Aditya Shinde,AI&DS,32,48,42,38,45,70,205,41.0,E,Fail
+108,Isha More,AI&DS,96,93,97,94,98,98,478,95.6,A+,Pass
+109,Vedant Joshi,AI&DS,72,68,75,70,74,86,359,71.8,B,Pass
+110,Sakshi Kale,AI&DS,58,62,55,60,64,80,299,59.8,D,Pass
+111,Pranav Gaikwad,AI&DS,81,77,84,79,82,89,403,80.6,A,Pass
+112,Neha Chavan,AI&DS,39,44,36,42,40,68,201,40.2,E,Pass
+113,Siddharth Pawar,AI&DS,67,73,71,65,69,83,345,69.0,C,Pass
+114,Manasi Patil,AI&DS,90,86,88,92,89,94,445,89.0,A,Pass
+115,Akash More,AI&DS,51,35,49,45,53,74,233,46.6,E,Pass
+116,Diya Shinde,AI&DS,76,79,83,77,81,91,396,79.2,B,Pass
+117,Harsh Vaidya,AI&DS,28,31,40,34,29,60,162,32.4,F,Fail
+118,Rutuja Desai,AI&DS,87,84,86,89,88,93,434,86.8,A,Pass
+119,Kunal Joshi,AI&DS,62,57,64,59,61,78,303,60.6,C,Pass
+120,Meera Kulkarni,AI&DS,94,91,90,96,93,97,464,92.8,A+,Pass
