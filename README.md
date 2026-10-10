@@ -5,14 +5,16 @@
 The Student Performance Analytics System is a Python-based project that analyzes student marks and generates useful academic performance reports.
 
 ## Objectives
-- Calculate total and average marks.
-- Assign grades to students.
+- Calculate total and average marks for students.
+- Assign grades based on average marks.
 - Identify pass and fail students.
-- Calculate class statistics and pass percentage.
+- Calculate class average and pass percentage.
 - Analyze subject-wise performance.
-- Identify the top five performers.
-- Export analyzed results to a CSV file.
-
+- Identify the top five performing students.
+- Upload a student dataset in CSV format.
+- Search students by name or ID.
+- Filter students by grade and result.
+- Download analyzed student reports as CSV files.
 ## Technologies Used
 - Python
 - NumPy
